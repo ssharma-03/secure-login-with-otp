@@ -25,7 +25,7 @@ cd secure-login-with-otp
 How to Use
 Clone the repository:
  
-git clone https://github.com/ssharma-03/otp-login-system.git
+git clone https://github.com/ssharma-03/secure-login-with-otp.git
  
 Install Streamlit:
 
@@ -39,10 +39,10 @@ Open your web browser and go to the URL provided (usually http://localhost:8501)
 
 Requirements:
 
-Python 3.x
-Streamlit (for the web application)
+Python 3.x and Streamlit (for the web application)
 
-Contributing
+Contribute:
+
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 License
